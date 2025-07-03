@@ -1,0 +1,207 @@
+[
+    {
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            {
+                "label": "Pedro Álvares Cabral",
+                "is_correct": true
+            },
+            {
+                "label": "Dom Pedro II",
+                "is_correct": false
+            },
+            {
+                "label": "Tiradentes",
+                "is_correct": false
+            },
+            {
+                "label": "Vasco da Gama",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 0,
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Qual é a raiz quadrada de 64?",
+        "opcoes": [
+            {
+                "label": "6",
+                "is_correct": false
+            },
+            {
+                "label": "7",
+                "is_correct": false
+            },
+            {
+                "label": "8",
+                "is_correct": true
+            },
+            {
+                "label": "9",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 1,
+        "tema": "matematica"
+    },
+    {
+        "pergunta": "Quanto é 12 x 12?",
+        "opcoes": [
+            {
+                "label": "144",
+                "is_correct": true
+            },
+            {
+                "label": "124",
+                "is_correct": false
+            },
+            {
+                "label": "132",
+                "is_correct": false
+            },
+            {
+                "label": "154",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 0,
+        "tema": "matematica"
+    },
+    {
+        "pergunta": "Qual é a unidade de medida da força no Sistema Internacional?",
+        "opcoes": [
+            {
+                "label": "Newton",
+                "is_correct": true
+            },
+            {
+                "label": "Joule",
+                "is_correct": false
+            },
+            {
+                "label": "Watt",
+                "is_correct": false
+            },
+            {
+                "label": "Pascal",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 0,
+        "tema": "fisica",
+        "dicas": [
+            "É representada pela letra N.",
+            "É o nome de um famoso cientista inglês."
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "opcoes": [
+            {
+                "label": "Terra",
+                "is_correct": false
+            },
+            {
+                "label": "Júpiter",
+                "is_correct": true
+            },
+            {
+                "label": "Saturno",
+                "is_correct": false
+            },
+            {
+                "label": "Marte",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 1,
+        "tema": "astronomia",
+        "dicas": [
+            "É um gigante gasoso.",
+            "Possui uma grande mancha vermelha."
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu 'Dom Casmurro'?",
+        "opcoes": [
+            {
+                "label": "Machado de Assis",
+                "is_correct": true
+            },
+            {
+                "label": "José de Alencar",
+                "is_correct": false
+            },
+            {
+                "label": "Carlos Drummond",
+                "is_correct": false
+            },
+            {
+                "label": "Clarice Lispector",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 2,
+        "tema": "literatura",
+        "dicas": [
+            "É considerado um dos maiores escritores brasileiros.",
+            "Autor de Memórias Póstumas de Brás Cubas."
+        ]
+    },
+    {
+        "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "opcoes": [
+            {
+                "label": "1969",
+                "is_correct": true
+            },
+            {
+                "label": "1959",
+                "is_correct": false
+            },
+            {
+                "label": "1979",
+                "is_correct": false
+            },
+            {
+                "label": "1989",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 1,
+        "tema": "historia",
+        "dicas": [
+            "Foi durante a missão Apollo 11.",
+            "Neil Armstrong foi o primeiro a pisar."
+        ]
+    },
+    {
+        "pergunta": "Quais destes são planetas do Sistema Solar? (Selecione todas as corretas)",
+        "opcoes": [
+            {
+                "label": "Vênus",
+                "is_correct": true
+            },
+            {
+                "label": "Plutão",
+                "is_correct": false
+            },
+            {
+                "label": "Júpiter",
+                "is_correct": true
+            },
+            {
+                "label": "Alpha Centauri",
+                "is_correct": false
+            }
+        ],
+        "dificuldade": 2,
+        "tema": "astronomia",
+        "dicas": [
+            "Nem todos os nomes listados são planetas.",
+            "Alpha Centauri é uma estrela, Plutão não é mais considerado planeta."
+        ],
+        "tipo": "multipla_escolha"
+    }
+]

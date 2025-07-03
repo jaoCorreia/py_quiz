@@ -1,0 +1,50 @@
+[2025-06-27 19:35:27] [INFO] Quiz iniciado - Jogador: joao, Tema: tema_generico, Estratégia: PontuacaoComPenalidade
+[2025-06-27 19:35:35] [INFO] Jogador: joao - ACERTO - Pontos: 1
+[2025-06-27 19:35:35] [INFO] Quiz finalizado - Jogador: joao, Pontuação: 1/1
+[2025-07-03 10:12:40] [INFO] Quiz iniciado - Jogador: joao, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:12:43] [INFO] Jogador: joao - ACERTO - Pontos: 1
+[2025-07-03 10:12:43] [INFO] Quiz finalizado - Jogador: joao, Pontuação: 1/1
+[2025-07-03 10:13:40] [INFO] Quiz iniciado - Jogador: jamel, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:13:42] [INFO] Jogador: jamel - ERRO - Pontos: 0
+[2025-07-03 10:13:42] [INFO] Quiz finalizado - Jogador: jamel, Pontuação: 0/1
+[2025-07-03 10:14:19] [INFO] Quiz iniciado - Jogador: jurema, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:14:25] [INFO] Jogador: jurema - ACERTO - Pontos: 1
+[2025-07-03 10:14:38] [INFO] Jogador: jurema - ACERTO - Pontos: 1
+[2025-07-03 10:14:38] [INFO] Quiz finalizado - Jogador: jurema, Pontuação: 2/2
+[2025-07-03 10:16:47] [INFO] Quiz iniciado - Jogador: ramon, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:16:49] [INFO] Jogador: ramon - ERRO - Pontos: 0
+[2025-07-03 10:16:49] [INFO] Quiz finalizado - Jogador: ramon, Pontuação: 0/1
+[2025-07-03 10:24:56] [INFO] Quiz iniciado - Jogador: ana, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:25:08] [INFO] Jogador: ana - ACERTO - Pontos: 1
+[2025-07-03 10:25:08] [INFO] Quiz finalizado - Jogador: ana, Pontuação: 1/1
+[2025-07-03 10:25:52] [INFO] Quiz iniciado - Jogador: ana, Tema: tema_generico, Estratégia: PontuacaoProgessiva
+[2025-07-03 10:25:55] [INFO] Jogador: ana - ACERTO - Pontos: 1
+[2025-07-03 10:25:55] [INFO] Quiz finalizado - Jogador: ana, Pontuação: 1/1
+[2025-07-03 10:27:44] [INFO] Quiz iniciado - Jogador: joao, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:28:10] [INFO] Jogador: joao - ERRO - Pontos: 0
+[2025-07-03 10:28:12] [INFO] Jogador: joao - ACERTO - Pontos: 1
+[2025-07-03 10:28:12] [INFO] Quiz finalizado - Jogador: joao, Pontuação: 1/2
+[2025-07-03 10:30:18] [INFO] Quiz iniciado - Jogador: joao, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:30:24] [INFO] Jogador: joao - ACERTO - Pontos: 1
+[2025-07-03 10:30:34] [INFO] Jogador: joao - ERRO - Pontos: 0
+[2025-07-03 10:30:34] [INFO] Quiz finalizado - Jogador: joao, Pontuação: 1/2
+[2025-07-03 10:30:57] [INFO] Quiz iniciado - Jogador: guilherme, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:31:17] [INFO] Jogador: guilherme - ACERTO - Pontos: 1
+[2025-07-03 10:31:35] [INFO] Jogador: guilherme - ERRO - Pontos: 0
+[2025-07-03 10:31:35] [INFO] Quiz finalizado - Jogador: guilherme, Pontuação: 1/2
+[2025-07-03 10:32:17] [INFO] Quiz iniciado - Jogador: guilherme, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:32:28] [INFO] Jogador: guilherme - ACERTO - Pontos: 1
+[2025-07-03 10:32:34] [INFO] Jogador: guilherme - ERRO - Pontos: 0
+[2025-07-03 10:32:34] [INFO] Quiz finalizado - Jogador: guilherme, Pontuação: 1/2
+[2025-07-03 10:33:51] [INFO] Quiz iniciado - Jogador: guilherme, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:33:52] [INFO] Jogador: guilherme - ERRO - Pontos: 0
+[2025-07-03 10:33:58] [INFO] Jogador: guilherme - ERRO - Pontos: 0
+[2025-07-03 10:33:58] [INFO] Quiz finalizado - Jogador: guilherme, Pontuação: 0/2
+[2025-07-03 10:34:39] [INFO] Quiz iniciado - Jogador: guilherme, Tema: tema_generico, Estratégia: PontuacaoSimples
+[2025-07-03 10:34:44] [INFO] Jogador: guilherme - ACERTO - Pontos: 1
+[2025-07-03 10:34:51] [INFO] Jogador: guilherme - ACERTO - Pontos: 1
+[2025-07-03 10:34:51] [INFO] Quiz finalizado - Jogador: guilherme, Pontuação: 2/2
+[2025-07-03 10:37:47] [INFO] Quiz iniciado - Jogador: jiraia, Tema: tema_generico, Estratégia: PontuacaoPorDificuldade
+[2025-07-03 10:37:53] [INFO] Jogador: jiraia - ACERTO - Pontos: 1
+[2025-07-03 10:37:59] [INFO] Jogador: jiraia - ACERTO - Pontos: 1
+[2025-07-03 10:37:59] [INFO] Quiz finalizado - Jogador: jiraia, Pontuação: 2/2
